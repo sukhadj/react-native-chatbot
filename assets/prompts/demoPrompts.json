@@ -1,0 +1,25 @@
+{
+    "prompts":
+    {
+        "0" : {
+            "text" : "Hi",
+            "output": "Welcome to the workd of StoryTailored! Craft your adventure beyond imagination!"
+        },
+        "1": {
+            "text" : "Create a random dungeon and dragons scenario", 
+            "output": "Legend has it that deep within the forbidden Forest of Shadows lies the Lost Amulet of Eternity, a powerful artifact that is said to hold the key to maintaining the delicate balance of magic in Aradath. However, the forest is shrouded in an ancient curse that prevents anyone from entering and retrieving the amulet."
+        },
+        "2": {
+            "text" : "Give me a random name for me",
+            "output": "Your name will be Ellen"
+        },
+        "3": {
+            "text" : "Assign me a random character",
+            "output": "You are a witch who has the power of Mind-Reading"
+        },
+        "4": {
+            "text": "Summarize the whole scenario for me",
+            "output": "King Alderan, aware of Ellen's formidable powers, beseeches her to delve into the minds of the ancient guardians of the forest, the enigmatic Tree Spirits, who are the key to lifting the curse. These spirits, once protectors of the amulet, now hold the secrets to its location and the means to dispel the curse. As Ellen ventures into the heart of the forbidden forest, she must use her mind-reading abilities to navigate through the minds of the wise but elusive Tree Spirits. Each spirit presents her with a unique challenge, testing her intellect, empathy, and magical prowess. Some may try to deceive her, while others might share crucial information in cryptic riddles. Ellen must use her wit and intuition to unravel their hidden motives and intentions. Moreover, lurking within the shadows of the forest are dark forces seeking to claim the amulet for their own malevolent purposes. Ellen must tread carefully, as her every thought could be intercepted by the sinister creatures that seek to exploit her powers for their gain."
+        }
+    }
+}
