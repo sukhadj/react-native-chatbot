@@ -1,0 +1,20 @@
+{
+    "prompts":
+    {
+        "begin" : {
+            "text" : "Play Dungeons and Dragons with me. Here are rules for you - You be the Dungeon Master. Do not tell me meta prompts hereafter. Talk to me as a Dungeon master only. Start with easy but as we progress make it difficult. Wait for me to give you more information."
+        },
+        "random_scenario": {
+            "text" : "Create a random dungeon and dragons scenario"
+        },
+        "random_name": {
+            "text" : "Give me a random name for me"
+        },
+        "random_character": {
+            "text" : "Assign me a random character"
+        },
+        "summary": {
+            "text": "Summarize the whole scenario for me"
+        }
+    }
+}
