@@ -16,6 +16,10 @@ public class MainActivity extends ReactActivity {
     // Set the theme to AppTheme BEFORE onCreate to support 
     // coloring the background, status bar, and navigation bar.
     // This is required for expo-splash-screen.
+      @Override
+    protected void onCreate(Bundle savedInstanceState) {
+      super.onCreate(null);
+    }
     setTheme(R.style.AppTheme);
     super.onCreate(null);
   }
