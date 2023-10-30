@@ -1,4 +1,4 @@
-# HackNC Mad Hackers
+# StoryTailored
 
 ## :rocket: What is it about? 
 
