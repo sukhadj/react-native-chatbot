@@ -21,18 +21,23 @@ We use Large Language Model (GPT 3.5) aka [**ChatGPT**](https://chat.openai.com/
 Please find the specific node modules in `package.json`.
 
 ## :iphone: How does our App look like?
+<table>
+  <tr>
+    <td>Welcome Screen</td>
+     <td>Home Screen</td>
+     <td>Chats on Home Screen</td>
+  </tr>
+  <tr>
+    <td><img src="assets/images/welcomeScreen.PNG" width=270 height=480></td>
+    <td><img src="assets/images/HomeScreen.PNG" width=270 height=480></td>
+    <td><img src="assets/images/HomeScreenChat.PNG" width=270 height=480></td>
+  </tr>
+ </table>
 
-<img height="650" width="350" src = "assets/images/welcomeScreen.PNG">
-<img height="650" width="350" src = "assets/images/HomeScreen.PNG">         
-<img height="650" width="350" src = "assets/images/HomeScreenChat.PNG">  
-
-## Our Team Members:
-Sukhad Joshi [@sukhadj](https://github.com/sukhadj)
-
-Anagha Patil[@Anagha-2000](https://github.com/Anagha-2000)
-
-Christopher Williams[@encore488](https://github.com/encore488)
-
-Denthin[@Denthin](https://github.com/Denthin)
+## :busts_in_silhouette: Our Team Members:
+Sukhad Joshi [@sukhadj](https://github.com/sukhadj) <br>
+Anagha Patil[@Anagha-2000](https://github.com/Anagha-2000) <br>
+Christopher Williams[@encore488](https://github.com/encore488) <br>
+Denthin[@Denthin](https://github.com/Denthin)<br>
 
 This project is a part of HackNC 2023 hackathon. Appreciated by many :heart:
